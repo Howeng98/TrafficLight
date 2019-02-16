@@ -1,0 +1,15 @@
+C:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light.v {1 {vlog -work work -vopt C:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module traffic_light
+
+Top level modules:
+	traffic_light
+
+} {} {}} C:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light_tb.v {1 {vlog -work work -vopt C:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light_tb.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module traffic_light_tb
+
+Top level modules:
+	traffic_light_tb
+
+} {} {}}
