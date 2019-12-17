@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech64_10.1c\examples
+T_opt
+Z1 VjJ?P?Dj8hIm:>eT`Lij;52
+Z2 04 16 4 work traffic_light_tb fast 0
+Z3 =1-6045cbc4677b-5c7bd9e9-37f-1138
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;10.1c;51
+Z7 dC:\modeltech64_10.1c\examples
+T_opt1
+Z8 VMi<OQIImg<Vo0UCiE1=[61
+R2
+Z9 =1-6045cbc4677b-5c7bde97-37a-5a8
+Z10 o-quiet -auto_acc_if_foreign -work work +acc
+Z11 n@_opt1
+R6
+R7
+T_opt2
+Z12 V2YB0oS1hS5g9Uc[S2jEee3
+Z13 04 13 4 work traffic_light fast 0
+Z14 =1-6045cbc4677b-5c7be1c1-150-1dc8
+R4
+Z15 n@_opt2
+R6
+R7
+vtraffic_light
+Z16 !s100 k@ImhT>Am@[O@G3^CVZiD0
+Z17 ITRaigiG4=^M1W@nd>=6Am2
+Z18 Vj:e;AibHKEPZZMkD>KX]g1
+Z19 dC:\Users\Howeng\Desktop\ComputerOrganization\hw1_trafficlight\F740XXXXX\src
+Z20 w1551621768
+Z21 8C:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light.v
+Z22 FC:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light.v
+L0 1
+Z23 OL;L;10.1c;51
+r1
+31
+Z24 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light.v|
+Z25 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s85 0
+Z26 !s108 1551622713.948000
+Z27 !s107 C:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light.v|
+vtraffic_light_tb
+!i10b 1
+Z28 !s100 7]hYAONk]e9:lPf9zP56:3
+Z29 I;fRoRXR_12b6]l1^??d3?3
+Z30 VN4X_9^ER9K^ggc_Mhiif80
+R19
+Z31 w1548143342
+Z32 8C:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light_tb.v
+Z33 FC:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light_tb.v
+L0 7
+R23
+r1
+!s85 0
+31
+!s108 1551622714.277000
+!s107 C:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light_tb.v|
+Z34 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/Howeng/Desktop/ComputerOrganization/hw1_trafficlight/F740XXXXX/src/traffic_light_tb.v|
+R25
